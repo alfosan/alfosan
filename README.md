@@ -50,7 +50,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,js,linux,mongodb,mysql,vscode=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,js,linux,mongodb,mysql,vscode,jquery,json,windows,powershell,xml,dtd=14" />
   </a>
 </p>
 
