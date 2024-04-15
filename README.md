@@ -26,11 +26,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I am currently studying a higher degree at Ies l'Estacio Ontinyent.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I am currently learning databases with MySQL and web development with JS, PHP, SQL, jQuery, JSON JWT, HTML and CSS.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I am very interested in the Backent and Frontent development section.
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
