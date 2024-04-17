@@ -32,13 +32,11 @@
 
 - ☁️ I am very interested in the Backent and Frontent development section.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 I am 18 years old and live in Ontinyent, Valencia, Spain.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 📫 Feel free to reach me out **lloalfsan@gmail.com**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [city30] my username!
 <!--Intro end-->
 
 <!--h1 without bottom border-->
