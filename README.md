@@ -53,12 +53,12 @@
 ## 💻 Sistemas operativos que domino:
 
 |||||
-|:---:|:---:|:---:|:---:|
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="mac" width="40" height="40" style="filter: invert(1);" target="_blank"/>](https://www.apple.com/macos/big-sur/) <br> ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" target="_blank"/>](https://www.microsoft.com/windows) <br> ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" target="_blank"/>](https://www.linux.org/) <br> ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+|:---:|:---:|
+|[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" target="_blank"/>](https://www.microsoft.com/windows) <br> ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" target="_blank"/>](https://www.linux.org/) <br> ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ### Entornos de desarrollo IDE:
 |||||
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40" target="_blank"/>](https://code.visualstudio.com/) <br> ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | [<img src="https://static-00.iconduck.com/assets.00/eclipse-icon-1024x959-y4dm3iv1.png" alt="Eclipse" width="40" height="40" target="_blank"/>](https://www.eclipse.org/) <br> ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) |
 
 
