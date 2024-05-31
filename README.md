@@ -38,7 +38,7 @@
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [city30] my username!
 <!--Intro end-->
-## 🛠️ Tecnologías y herramientas que he usado:
+## 🛠️ Technologies and tools I have used:
 
 ### 🤙 Frontend:
 
@@ -53,13 +53,13 @@
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" target="_blank"/>](https://www.php.net/) <br> ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" target="_blank"/>](https://www.oracle.com/java/) <br> ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" target="_blank"/>](https://www.mysql.com/) <br> ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_xml.svg" alt="xml" width="40" height="40" target="_blank"/>](https://www.w3.org/XML/) <br> ![XML](https://img.shields.io/badge/-XML-F50000?style=for-the-badge&logo=xml&logoColor=white) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" target="_blank"/>](https://www.mongodb.com/) <br> ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 
-## 💻 Sistemas operativos que domino:
+## 💻 Operating systems I am proficient in:
 
 | | |
 |:---:|:---:|
 |[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" target="_blank"/>](https://www.microsoft.com/windows) <br> ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" target="_blank"/>](https://www.linux.org/) <br> ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
-## 👨‍💻 Entornos de desarrollo IDE:
+## 👨‍💻 IDE development environments I use:
 
 | | |
 |:---:|:---:|
