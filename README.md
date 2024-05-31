@@ -59,7 +59,7 @@
 ### Entornos de desarrollo IDE:
 |||||
 |:---:|:---:|:---:|:---:|
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Eclipse_Icon.svg/2048px-Eclipse_Icon.svg.png" alt="Eclipse" width="40" height="40" target="_blank"/>](https://www.eclipse.org/) <br> ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1024px-Visual_Studio_Code_1.18_icon.svg.png" alt="VSCode" width="40" height="40" target="_blank"/>](https://code.visualstudio.com/) <br> ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40" target="_blank"/>](https://code.visualstudio.com/) <br> ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Eclipse-logo.svg/1024px-Eclipse-logo.svg.png" alt="Eclipse" width="40" height="40" target="_blank"/>](https://www.eclipse.org/) <br> ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) |
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
