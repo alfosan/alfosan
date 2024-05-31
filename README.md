@@ -52,7 +52,7 @@
 
 ## 💻 Sistemas operativos que domino:
 
-|||||
+|||
 |:---:|:---:|
 |[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" target="_blank"/>](https://www.microsoft.com/windows) <br> ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" target="_blank"/>](https://www.linux.org/) <br> ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
