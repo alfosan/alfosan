@@ -1,6 +1,5 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -10,12 +9,12 @@
 </div>
 
 
-<!--- snake -->
+<!--- snake/mario -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+  
+![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/Jojisi/Jojisi/assets/116123535/8eae716d-b2e1-4cdb-872b-48d857f33b27)
 
+</div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
