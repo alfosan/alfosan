@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I am currently studying a higher degree at Ies l'Estacio Ontinyent.
 
-- 🌱 I am currently learning databases with MySQL, MongoDB, Postgre and web development with Angular, Express, Node, Vue, Springboot, JS, TS, PHP, SQL, jQuery, JSON JWT, HTML and CSS.
+- 🌱 I am currently learning databases with MySQL, MongoDB, Postgre and web development with Angular, Express.js, Node.js, Vue.js, Springboot, JS, TS, PHP, SQL, jQuery, JSON JWT, HTML and CSS.
 
 - ☁️ I am very interested in the Backent and Frontent development section.
 
