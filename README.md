@@ -80,6 +80,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [alfosan](https://github.com/alfosan)
 
-Last Edited on: 10/04/24
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=alfosan)
+
+</div>
+
+Credit: [alfosan](https://github.com/alfosan)
